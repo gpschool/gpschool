@@ -16,10 +16,11 @@ youtube:
 conference:
   hosts:
   organizers:
+  - {name: Alan Saul, url: "http://www.alansaul.com/"}
   - {name: Neil Lawrence, url: "http://inverseprobability.com"}
+  - {name: Sheffield ML Group, url: "http://sheffieldml.github.io"}
   #  - {name: Javier Gonzalez, url: "http://javiergonzalezh.github.io/"}
   #  - {name: Zhenwen Dai, url: "http://staffwww.dcs.shef.ac.uk/people/Z.Dai/"}
-  #  - {name: Sheffield ML Group, url: "http://sheffieldml.github.io"}
   name: Gaussian Process Summer School
   location: University of Sheffield, UK
   year: 2014
