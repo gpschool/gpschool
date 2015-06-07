@@ -17,6 +17,7 @@ conference:
   hosts:
   organizers:
   - {name: Alan Saul, url: "http://www.alansaul.com/"}
+  - {name: Andreas Damianou, url: "http://staffwww.dcs.sheffield.ac.uk/people/A.Damianou/index.html"}
   - {name: Neil Lawrence, url: "http://inverseprobability.com"}
   - {name: Sheffield ML Group, url: "http://sheffieldml.github.io"}
   #  - {name: Javier Gonzalez, url: "http://javiergonzalezh.github.io/"}
